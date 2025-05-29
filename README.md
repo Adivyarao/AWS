@@ -1,4 +1,4 @@
 # AWS
 My first AWS repository.
 <br>
-Author - Divya A
+Author - Divya A(AWS)
